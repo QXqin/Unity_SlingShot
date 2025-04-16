@@ -1,0 +1,4 @@
+repository "弹弓_new@tj_bucea_240408@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
